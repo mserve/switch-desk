@@ -1,4 +1,4 @@
-module github.com/mserve/switchdesk
+module github.com/mserve/switch-desk
 
 go 1.16
 
